@@ -7,7 +7,7 @@
 <br />
 
 <div align="center">
-  <a href="https://matheus904-12.github.io/PositiveSensePage/landing-page/">
+  <a href="https://matheus904-12.github.io/PositiveSensePage/">
     <img src="https://img.shields.io/badge/Landing_Page-Visite-764ba2?style=for-the-badge" />
   </a>
 </div>
@@ -73,12 +73,12 @@ Este repositório contém a **landing page** do aplicativo, hospedada via **Netl
 
 ```
 PositiveSensePage/
-├── landing-page/        # Página HTML principal
-│   ├── index.html       # Landing page do app
-│   └── netlify.toml     # Configuração do Netlify
+├── index.html           # Landing page principal
+├── netlify.toml         # Configuração do Netlify
 ├── assets/              # Recursos visuais
 │   ├── icon.png         # Ícone do app
 │   └── favicon.png      # Favicon do site
+├── .gitignore
 ├── LICENSE              # Licença MIT
 └── README.md            # Este arquivo
 ```
